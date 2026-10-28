@@ -10,10 +10,10 @@
 
 ```
 skills/
-  第0組_範例_回購率報告/SKILL.md   ← 講師範例
-  第1組_題目/SKILL.md
+  g0-repurchase-report/SKILL.md   ← 講師範例（第 3 題回購率報告）
+  g1-英文名稱/SKILL.md
   …
-  第7組_題目/SKILL.md
+  g7-英文名稱/SKILL.md
 ```
 
 ## 怎麼送進來
@@ -24,7 +24,7 @@ skills/
 
 - 只新增自己組的資料夾，不改這份 README，也不動別組的檔案。
 - 不放任何 API key、密碼、真實客戶資料。
-- 檔名格式：`skills/第X組_題目/SKILL.md`。
+- 檔名格式：`skills/g組號-英文名稱/SKILL.md`；資料夾名稱和 SKILL.md 的 name 相同（Agent Skills 標準）。
 
 ## English
 

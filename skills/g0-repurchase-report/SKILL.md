@@ -1,5 +1,5 @@
 ---
-name: repurchase-report
+name: g0-repurchase-report
 description: 電商會員部要算回購率、分群名單時用
 ---
 # 回購率報告
